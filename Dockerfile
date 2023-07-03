@@ -31,4 +31,4 @@ COPY . ./
 
 # Run the web service on container startup.
 EXPOSE 80
-CMD streamlit run --server.port 80 Chat2SQL.py
+CMD streamlit run --server.port 80 app.py
