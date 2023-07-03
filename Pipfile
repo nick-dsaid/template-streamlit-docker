@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dateutil = "==2.8.2"
+python-dotenv = "==1.0.0"
+requests = "==2.31.0"
+streamlit = "==1.24.0"
+
+[dev-packages]
